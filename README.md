@@ -1,4 +1,4 @@
-Commands to run the application
+# Commands to run the application
 
-yarn install
-yarn start
+* **yarn install**
+* **yarn start**
